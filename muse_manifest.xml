@@ -1,0 +1,22 @@
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1434337407938">
+  <folder name="css">
+    <file name="site_global.css" crc="475048684"/>
+    <file name="contact-me.css" crc="3775018903" ref="contact-me"/>
+    <file name="index.css" crc="4175285996" ref="index"/>
+    <file name="mods.css" crc="3973079505" ref="mods"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index:mods:contact-me"/>
+    <file name="museutils.js" crc="212726984" ref="index:mods:contact-me"/>
+    <file name="jquery.musemenu.js" crc="440295907" ref="index:mods:contact-me"/>
+    <file name="jquery.watch.js" crc="4125239756" ref="index:mods:contact-me"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:mods:contact-me"/>
+  </folder>
+  <folder name="images">
+    <file name="dmfenterprises.png" crc="63276638" ref="index"/>
+    <file name="dmfenterprises97x97.png" crc="4232757507" ref="mods"/>
+  </folder>
+  <file name="index.html" crc="50930774" mt="1434337407435" redirect="true"/>
+  <file name="mods.html" crc="441894282" mt="1434337407437" redirect="true"/>
+  <file name="contact-me.html" crc="3787912961" mt="1434337407437" redirect="true"/>
+</manifest>
