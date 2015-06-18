@@ -1,56 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://dmf444.github.iio/images/dmfenterprises.png</loc>
-    <lastmod>2015-06-17</lastmod>
+    <loc>http://dmf444.github.io/images/dmfenterprises.png</loc>
+    <lastmod>2015-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://dmf444.github.iio/images/curse_round_logo_96x96.png</loc>
-    <lastmod>2015-06-17</lastmod>
+    <loc>http://dmf444.github.io/images/books_texture.jpg</loc>
+    <lastmod>2015-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://dmf444.github.iio/images/eflogo.png</loc>
-    <lastmod>2015-06-17</lastmod>
+    <loc>http://dmf444.github.io/images/deadmess.jpg</loc>
+    <lastmod>2015-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://dmf444.github.iio/images/deadmess.jpg</loc>
-    <lastmod>2015-06-17</lastmod>
+    <loc>http://dmf444.github.io/images/420x200splash.jpg</loc>
+    <lastmod>2015-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://dmf444.github.iio/images/floralogo.jpg</loc>
-    <lastmod>2015-06-17</lastmod>
+    <loc>http://dmf444.github.io/images/uhc23.jpg</loc>
+    <lastmod>2015-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://dmf444.github.iio/images/nc_cape.jpg</loc>
-    <lastmod>2015-06-17</lastmod>
+    <loc>http://dmf444.github.io/images/curse_round_logo_96x96.png</loc>
+    <lastmod>2015-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://dmf444.github.iio/index.html</loc>
-    <lastmod>2015-06-17</lastmod>
+    <loc>http://dmf444.github.io/images/pmc.png</loc>
+    <lastmod>2015-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://dmf444.github.iio/mods.html</loc>
-    <lastmod>2015-06-17</lastmod>
+    <loc>http://dmf444.github.io/images/reddit.png</loc>
+    <lastmod>2015-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://dmf444.github.iio/contact-me.html</loc>
-    <lastmod>2015-06-17</lastmod>
+    <loc>http://dmf444.github.io/images/youtube_icon_block.png</loc>
+    <lastmod>2015-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dmf444.github.io/images/deadmess2.jpg</loc>
+    <lastmod>2015-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dmf444.github.io/images/eflogo.png</loc>
+    <lastmod>2015-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dmf444.github.io/images/nc_cape.jpg</loc>
+    <lastmod>2015-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dmf444.github.io/images/floralogo.jpg</loc>
+    <lastmod>2015-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dmf444.github.io/images/42x42icon.jpg</loc>
+    <lastmod>2015-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dmf444.github.io/images/moddednailtitle.jpg</loc>
+    <lastmod>2015-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dmf444.github.io/index.html</loc>
+    <lastmod>2015-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dmf444.github.io/mods.html</loc>
+    <lastmod>2015-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dmf444.github.io/modpacks.html</loc>
+    <lastmod>2015-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dmf444.github.io/maps.html</loc>
+    <lastmod>2015-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dmf444.github.io/blog.html</loc>
+    <lastmod>2015-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

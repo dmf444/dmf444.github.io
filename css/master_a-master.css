@@ -1,0 +1,30 @@
+#u75
+{
+	background-color: #120500;
+}
+
+#u75_align_to_page
+{
+	position: relative;
+}
+
+#u529
+{
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u508,#u511,#u517,#u523
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u499,#u503
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+

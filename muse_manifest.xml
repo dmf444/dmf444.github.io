@@ -1,27 +1,52 @@
-<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1434597083203">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dmf444.github.io" resolutions="1x" timestamp="1434662169659">
   <folder name="css">
-    <file name="site_global.css" crc="475048684"/>
-    <file name="contact-me.css" crc="3898410644" ref="contact-me"/>
-    <file name="index.css" crc="3844404473" ref="index"/>
-    <file name="mods.css" crc="127054042" ref="mods"/>
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_b-master.css" crc="3796415971" ref="mods:blog:maps:modpacks"/>
+    <file name="master_a-master.css" crc="3995520172" ref="mods:blog:index:maps:modpacks"/>
+    <file name="mods.css" crc="395672796" ref="mods"/>
+    <file name="blog.css" crc="4211236097" ref="blog"/>
+    <file name="index.css" crc="20113737" ref="index"/>
+    <file name="maps.css" crc="103261887" ref="maps"/>
+    <file name="modpacks.css" crc="4107785942" ref="modpacks"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index:mods:contact-me"/>
-    <file name="museutils.js" crc="212726984" ref="index:mods:contact-me"/>
-    <file name="jquery.musemenu.js" crc="440295907" ref="index:mods:contact-me"/>
-    <file name="jquery.watch.js" crc="4125239756" ref="index:mods:contact-me"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:mods:contact-me"/>
-    <file name="pie.js" crc="3827607177" ref="mods"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:mods:modpacks:maps:blog"/>
+    <file name="museutils.js" crc="183364071" ref="index:mods:modpacks:maps:blog"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:mods:modpacks:maps:blog"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:mods:modpacks:maps:blog"/>
+    <file name="pie.js" crc="3827607177" ref="index:mods:modpacks:maps"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:mods:modpacks:maps:blog"/>
   </folder>
   <folder name="images">
-    <file name="dmfenterprises.png" crc="127826371" ref="index:mods:contact-me"/>
-    <file name="curse_round_logo_96x96.png" crc="525887236" ref="mods"/>
-    <file name="eflogo.png" crc="4162769586" ref="mods"/>
-    <file name="deadmess.jpg" crc="322228927" ref="mods"/>
-    <file name="floralogo.jpg" crc="4153542471" ref="mods"/>
-    <file name="nc_cape.jpg" crc="4052731456" ref="mods"/>
+    <file name="dmfenterprises.png" crc="42683520" seo="true" ref="index:mods:modpacks:maps:blog"/>
+    <file name="books_texture.jpg" crc="255881129" seo="true" ref="index"/>
+    <file name="deadmess.jpg" crc="3963303710" seo="true" ref="index"/>
+    <file name="420x200splash.jpg" crc="3925571644" seo="true" ref="index"/>
+    <file name="uhc23.jpg" crc="276816967" seo="true" ref="index"/>
+    <file name="blogging-crop-u463.jpg" crc="78649399" ref="index"/>
+    <file name="curse_round_logo_96x96.png" crc="4293480954" seo="true" ref="index:mods:modpacks:maps:blog"/>
+    <file name="pmc.png" crc="4021857236" seo="true" ref="index:mods:modpacks:maps:blog"/>
+    <file name="reddit.png" crc="4067280783" seo="true" ref="index:mods:modpacks:maps:blog"/>
+    <file name="youtube_icon_block.png" crc="3855849033" seo="true" ref="index:mods:modpacks:maps:blog"/>
+    <file name="deadmess2.jpg" crc="211018570" seo="true" ref="mods"/>
+    <file name="u254-4.png" crc="4265628036" ref="mods"/>
+    <file name="u272-4.png" crc="250359351" ref="mods"/>
+    <file name="eflogo.png" crc="4162769586" seo="true" ref="mods"/>
+    <file name="nc_cape.jpg" crc="402252397" seo="true" ref="mods"/>
+    <file name="floralogo.jpg" crc="86355935" seo="true" ref="mods"/>
+    <file name="u298-4.png" crc="34768238" ref="mods"/>
+    <file name="42x42icon.jpg" crc="185430941" seo="true" ref="modpacks"/>
+    <file name="u355-6.png" crc="3762716896" ref="modpacks"/>
+    <file name="uhc2-crop-u411.jpg" crc="229891474" ref="maps"/>
+    <file name="moddednailtitle.jpg" crc="488620435" seo="true" ref="maps"/>
+    <file name="u383-4.png" crc="16407818" ref="maps"/>
+    <file name="u405-6.png" crc="3773187712" ref="maps"/>
+    <file name="2013-08-18_225335-crop-u493.jpg" crc="4188333730" ref="maps"/>
+    <file name="u487-4.png" crc="4146874396" ref="maps"/>
   </folder>
-  <file name="index.html" crc="132401388" mt="1434597082516" redirect="true"/>
-  <file name="mods.html" crc="3855615049" mt="1434597082514" redirect="true"/>
-  <file name="contact-me.html" crc="389705178" mt="1434597082514" redirect="true"/>
+  <file name="index.html" crc="527499738" seo="true" mt="1434661694816" redirect="true"/>
+  <file name="mods.html" crc="4003351288" seo="true" mt="1434661694816" redirect="true"/>
+  <file name="modpacks.html" crc="323591099" seo="true" mt="1434662100621" redirect="true"/>
+  <file name="maps.html" crc="218775310" seo="true" mt="1434662108597" redirect="true"/>
+  <file name="blog.html" crc="174423643" seo="true" mt="1434661694816" redirect="true"/>
 </manifest>
