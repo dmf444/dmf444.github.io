@@ -1,9 +1,9 @@
-<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1434337407938">
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1434597083203">
   <folder name="css">
     <file name="site_global.css" crc="475048684"/>
-    <file name="contact-me.css" crc="3775018903" ref="contact-me"/>
-    <file name="index.css" crc="4175285996" ref="index"/>
-    <file name="mods.css" crc="3973079505" ref="mods"/>
+    <file name="contact-me.css" crc="3898410644" ref="contact-me"/>
+    <file name="index.css" crc="3844404473" ref="index"/>
+    <file name="mods.css" crc="127054042" ref="mods"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index:mods:contact-me"/>
@@ -11,12 +11,17 @@
     <file name="jquery.musemenu.js" crc="440295907" ref="index:mods:contact-me"/>
     <file name="jquery.watch.js" crc="4125239756" ref="index:mods:contact-me"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:mods:contact-me"/>
+    <file name="pie.js" crc="3827607177" ref="mods"/>
   </folder>
   <folder name="images">
-    <file name="dmfenterprises.png" crc="63276638" ref="index"/>
-    <file name="dmfenterprises97x97.png" crc="4232757507" ref="mods"/>
+    <file name="dmfenterprises.png" crc="127826371" ref="index:mods:contact-me"/>
+    <file name="curse_round_logo_96x96.png" crc="525887236" ref="mods"/>
+    <file name="eflogo.png" crc="4162769586" ref="mods"/>
+    <file name="deadmess.jpg" crc="322228927" ref="mods"/>
+    <file name="floralogo.jpg" crc="4153542471" ref="mods"/>
+    <file name="nc_cape.jpg" crc="4052731456" ref="mods"/>
   </folder>
-  <file name="index.html" crc="50930774" mt="1434337407435" redirect="true"/>
-  <file name="mods.html" crc="441894282" mt="1434337407437" redirect="true"/>
-  <file name="contact-me.html" crc="3787912961" mt="1434337407437" redirect="true"/>
+  <file name="index.html" crc="132401388" mt="1434597082516" redirect="true"/>
+  <file name="mods.html" crc="3855615049" mt="1434597082514" redirect="true"/>
+  <file name="contact-me.html" crc="389705178" mt="1434597082514" redirect="true"/>
 </manifest>

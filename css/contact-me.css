@@ -1,7 +1,7 @@
 .version.contact_me /* version checker */
 {
-	color: #0000E1;
-	background-color: #023797;
+	color: #0000E8;
+	background-color: #5D0694;
 }
 
 .html
@@ -36,7 +36,6 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: #000000;
-	padding-bottom: 5px;
 }
 
 #u167_align_to_page
@@ -57,7 +56,7 @@
 	background-color: #00FFFF;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 48px;
+	margin-top: 53px;
 	left: 99px;
 }
 
@@ -169,7 +168,7 @@
 {
 	z-index: 2;
 	margin-bottom: -1px;
-	height: 94px;
+	height: 99px;
 }
 
 #u191

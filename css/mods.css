@@ -1,7 +1,7 @@
 .version.mods /* version checker */
 {
-	color: #0000EC;
-	background-color: #D061D1;
+	color: #000007;
+	background-color: #92B0DA;
 }
 
 .html
@@ -13,15 +13,14 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 499.99999999999886px;
-	padding-bottom: 0px;
+	min-height: 500px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #page_position_content
 {
-	margin-top: -36px;
+	margin-top: -235px;
 }
 
 #pu141
@@ -32,11 +31,12 @@
 
 #u141
 {
-	z-index: 2;
+	z-index: 3;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
 	background-color: #000000;
+	padding-bottom: 20px;
 }
 
 #u141_align_to_page
@@ -48,17 +48,34 @@
 	left: -100px;
 }
 
-#menuu126
+#u144
+{
+	z-index: 4;
+	width: 220px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -6px;
+	left: 454px;
+}
+
+#u141-bw
 {
 	z-index: 3;
+	margin-bottom: -1px;
+	height: 216px;
+}
+
+#menuu126
+{
+	z-index: 6;
 	width: 340px;
 	border-style: none;
 	border-color: transparent;
 	background-color: #00FFFF;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 53px;
-	left: 99px;
+	margin-top: 191px;
+	left: 395px;
 }
 
 #u134
@@ -165,27 +182,10 @@
 	cursor: pointer;
 }
 
-#u141-bw
-{
-	z-index: 2;
-	margin-bottom: -1px;
-	height: 99px;
-}
-
-#u144
-{
-	z-index: 23;
-	width: 97px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 1px;
-	left: 3px;
-}
-
 #u143
 {
-	z-index: 22;
-	height: 564px;
+	z-index: 2;
+	height: 841px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
@@ -194,15 +194,540 @@
 
 #u143-bw
 {
-	z-index: 22;
-	height: 566px;
+	z-index: 2;
+	margin-top: 1px;
+	height: 843px;
+}
+
+#pu259
+{
+	width: 0.01px;
+	padding-bottom: 471px;
+	margin-left: 382px;
+	margin-top: -641px;
+}
+
+#u259
+{
+	z-index: 25;
+	width: 423px;
+	padding-bottom: 220px;
+	position: fixed;
+	bottom: 457px;
+	left: 482px;
+}
+
+#u195
+{
+	z-index: 26;
+	width: 421px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #7F7F8F;
+	position: fixed;
+	bottom: 457px;
+	left: 482px;
+}
+
+#u195_position_content
+{
+	margin-top: -1px;
+	padding-bottom: 219px;
+}
+
+#buttonu241
+{
+	z-index: 27;
+	width: 181px;
+	border-color: #787878;
+	background-color: #CACACA;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	padding-bottom: 9px;
+	position: fixed;
+	bottom: 584px;
+	left: 714px;
+}
+
+#buttonu241:hover
+{
+	background-color: #545454;
+	margin: 0px;
+}
+
+#u278
+{
+	z-index: 32;
+	width: 33px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 17px;
+}
+
+#u242-4
+{
+	z-index: 28;
+	width: 119px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #3C3C3C;
+	font-size: 14px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 50px;
+}
+
+#buttonu241:hover #u242-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	margin: 17px -10000px 0px 0px;
+}
+
+#buttonu241.ButtonSelected #u242-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	margin: 17px -10000px 0px 0px;
+}
+
+#buttonu241:hover #u242-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u249
+{
+	z-index: 38;
+	width: 369px;
+	position: fixed;
+	bottom: 478px;
+	left: 500px;
+}
+
+#u197-4
+{
+	z-index: 34;
+	width: 227px;
+	min-height: 110px;
+	position: fixed;
+	bottom: 544px;
+	left: 487px;
+}
+
+#u300
+{
+	z-index: 55;
+	width: 423px;
+	padding-bottom: 220px;
+	position: fixed;
+	bottom: 204px;
+	left: 483px;
+}
+
+#u285
+{
+	z-index: 56;
+	width: 421px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #7F7F8F;
+	padding-bottom: 7px;
+	position: fixed;
+	bottom: 204px;
+	left: 483px;
+}
+
+#u292
+{
+	z-index: 71;
+	width: 191px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 6px;
+}
+
+#pbuttonu281
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 15px;
+	margin-left: 202px;
+}
+
+#pbuttonu281_position_content
+{
+	margin-top: -16px;
+	padding-bottom: 212px;
+}
+
+#buttonu281
+{
+	z-index: 61;
+	width: 213px;
+	border-color: #787878;
+	background-color: #CACACA;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	padding-bottom: 5px;
+	position: fixed;
+	bottom: 364px;
+	left: 686px;
+}
+
+#buttonu281:hover
+{
+	background-color: #545454;
+	margin: 0px;
+}
+
+#u282
+{
+	z-index: 66;
+	width: 33px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 32px;
+}
+
+#u284-4
+{
+	z-index: 62;
+	width: 119px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #3C3C3C;
+	font-size: 14px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 70px;
+}
+
+#buttonu281:hover #u284-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	margin: 14px -10000px 0px 0px;
+}
+
+#buttonu281:hover #u284-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u291-3
+{
+	z-index: 68;
+	width: 2px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 211px;
+}
+
+#u288-4
+{
+	z-index: 57;
+	width: 204px;
+	min-height: 142px;
+	position: fixed;
+	bottom: 212px;
+	left: 686px;
+}
+
+#u279
+{
+	z-index: 40;
+	width: 423px;
+	padding-bottom: 220px;
+	position: fixed;
+	bottom: 457px;
+	left: 960px;
+}
+
+#u196
+{
+	z-index: 41;
+	width: 388px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #7F7F8F;
+	position: fixed;
+	bottom: 457px;
+	left: 960px;
+	padding: 10px 18px 21.100000000000023px 15px;
+}
+
+#pu260
+{
+	width: 0.01px;
+}
+
+#u260
+{
+	z-index: 42;
+	width: 128px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u266-4
+{
+	z-index: 44;
+	width: 245px;
+	min-height: 116px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 143px;
+}
+
+#buttonu267
+{
+	z-index: 48;
+	width: 231px;
+	border-color: #787878;
+	background-color: #CACACA;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	padding-bottom: 6px;
+	margin-left: 84px;
+	margin-top: 14px;
+	position: relative;
+}
+
+#buttonu267:hover
+{
+	background-color: #545454;
+	margin: 14px 0px 0px 84px;
+}
+
+#buttonu267.ButtonSelected
+{
+	background-color: #CACACA;
+	margin: 14px 0px 0px 84px;
+}
+
+#u270
+{
+	z-index: 53;
+	width: 33px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 28px;
+}
+
+#u268-4
+{
+	z-index: 49;
+	width: 119px;
+	min-height: 18px;
+	background-color: transparent;
+	color: #3C3C3C;
+	font-size: 14px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 73px;
+}
+
+#buttonu267:hover #u268-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	margin: 14px -10000px 0px 0px;
+}
+
+#buttonu267.ButtonSelected #u268-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	margin: 14px -10000px 0px 0px;
+}
+
+#buttonu267:hover #u268-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u319
+{
+	z-index: 73;
+	width: 423px;
+	padding-bottom: 220px;
+	position: fixed;
+	bottom: 205px;
+	left: 960px;
+}
+
+#u309
+{
+	z-index: 74;
+	width: 421px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #7F7F8F;
+	padding-bottom: 5px;
+	position: fixed;
+	bottom: 205px;
+	left: 960px;
+}
+
+#pbuttonu304
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 12px;
+	margin-left: 11px;
+}
+
+#pbuttonu304_position_content
+{
+	margin-top: -13px;
+	padding-bottom: 214px;
+}
+
+#buttonu304
+{
+	z-index: 79;
+	width: 213px;
+	border-color: #787878;
+	background-color: #CACACA;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	padding-bottom: 7px;
+	position: fixed;
+	bottom: 367px;
+	left: 988px;
+}
+
+#buttonu304:hover
+{
+	background-color: #545454;
+	margin: 0px;
+}
+
+#buttonu241.ButtonSelected,#buttonu281.ButtonSelected,#buttonu304.ButtonSelected
+{
+	background-color: #CACACA;
+	margin: 0px;
+}
+
+#u308-4
+{
+	z-index: 80;
+	width: 119px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #3C3C3C;
+	font-size: 14px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 47px;
+}
+
+#buttonu281.ButtonSelected #u284-4,#buttonu304:hover #u308-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	margin: 14px -10000px 0px 0px;
+}
+
+#buttonu304.ButtonSelected #u308-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	margin: 14px -10000px 0px 0px;
+}
+
+#buttonu304:hover #u308-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu241.ButtonSelected #u242-4 p,#buttonu281.ButtonSelected #u284-4 p,#buttonu267.ButtonSelected #u268-4 p,#buttonu304.ButtonSelected #u308-4 p
+{
+	color: #3C3C3C;
+	visibility: inherit;
+}
+
+#u305-3
+{
+	z-index: 84;
+	width: 2px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 211px;
+}
+
+#u310-4
+{
+	z-index: 75;
+	width: 204px;
+	min-height: 142px;
+	position: fixed;
+	bottom: 211px;
+	left: 972px;
+}
+
+#u313
+{
+	z-index: 87;
+	width: 130px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 275px;
 }
 
 body
 {
 	position: relative;
 	min-width: 960px;
-	padding-top: 36px;
+	padding-top: 234px;
 	padding-bottom: 36px;
 }
 
