@@ -1,10 +1,11 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dmf444.github.io" resolutions="1x" timestamp="1434662169659">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dmf444.github.io" resolutions="1x" timestamp="1434684454784">
   <folder name="css">
-    <file name="site_global.css" crc="4052507572"/>
+    <file name="site_global.css" crc="3857309751"/>
     <file name="master_b-master.css" crc="3796415971" ref="mods:blog:maps:modpacks"/>
     <file name="master_a-master.css" crc="3995520172" ref="mods:blog:index:maps:modpacks"/>
     <file name="mods.css" crc="395672796" ref="mods"/>
-    <file name="blog.css" crc="4211236097" ref="blog"/>
+    <file name="blog.css" crc="4049559286" ref="blog"/>
+    <file name="iefonts_blog.css" crc="3873101489" ref="blog"/>
     <file name="index.css" crc="20113737" ref="index"/>
     <file name="maps.css" crc="103261887" ref="maps"/>
     <file name="modpacks.css" crc="4107785942" ref="modpacks"/>
@@ -43,10 +44,11 @@
     <file name="u405-6.png" crc="3773187712" ref="maps"/>
     <file name="2013-08-18_225335-crop-u493.jpg" crc="4188333730" ref="maps"/>
     <file name="u487-4.png" crc="4146874396" ref="maps"/>
+    <file name="untitled-1.png" crc="4231729736" ref="blog"/>
   </folder>
-  <file name="index.html" crc="527499738" seo="true" mt="1434661694816" redirect="true"/>
-  <file name="mods.html" crc="4003351288" seo="true" mt="1434661694816" redirect="true"/>
+  <file name="index.html" crc="391826304" seo="true" mt="1434661694816" redirect="true"/>
+  <file name="mods.html" crc="4089829431" seo="true" mt="1434661694816" redirect="true"/>
   <file name="modpacks.html" crc="323591099" seo="true" mt="1434662100621" redirect="true"/>
   <file name="maps.html" crc="218775310" seo="true" mt="1434662108597" redirect="true"/>
-  <file name="blog.html" crc="174423643" seo="true" mt="1434661694816" redirect="true"/>
+  <file name="blog.html" crc="319922952" seo="true" mt="1434684353202" redirect="true"/>
 </manifest>
